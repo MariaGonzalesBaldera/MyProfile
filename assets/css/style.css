@@ -838,7 +838,7 @@ a:hover {
 .resume .resume-item {
   padding: 0 0 20px 20px;
   margin-top: -2px;
-  border-left: 2px solid rgba(191, 206, 224, 0.938);
+  border-left: 2px solid rgba(28, 187, 226, 0.938);
   position: relative;
 }
 
@@ -882,7 +882,6 @@ a:hover {
   left: -9px;
   top: 0;
   background: #5FCFEE;
-  border: 2px solid #56aac2;
 }
 
 /*--------------------------------------------------------------
@@ -1009,7 +1008,7 @@ footer {
   padding: 25px 0;
   background: #5FCFEE;
 }
-
+  
 footer .copyright {
   margin-bottom: 0.3rem;
 }
